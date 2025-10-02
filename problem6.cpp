@@ -20,4 +20,5 @@ int main() {
     int i;
     cin >> i;
     cout<<Factorial(i);
+    return 0;
 }
