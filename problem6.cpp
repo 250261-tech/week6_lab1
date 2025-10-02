@@ -20,5 +20,5 @@ int Factorial(int& n, optional<int>def) {
 int main() {
     int *i;
     cin >> *i;
-    cout<<Factorial();
+    cout<<Factorial(*i);
 }
